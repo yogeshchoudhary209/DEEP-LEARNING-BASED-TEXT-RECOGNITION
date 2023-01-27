@@ -1,0 +1,7 @@
+numpy=1.23.1
+opencv=4.0.1
+gTTS==2.3.0
+imutils==0.5.4
+num2words==0.5.12
+numpy==1.23.1
+pytesseract==0.3.10
