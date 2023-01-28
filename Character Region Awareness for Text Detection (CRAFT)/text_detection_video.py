@@ -182,9 +182,5 @@ if __name__ == '__main__':
 	# close all windows
 	cv2.destroyAllWindows()
 
-
-
-
-
-
-
+	
+	
